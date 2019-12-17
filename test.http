@@ -1,0 +1,12 @@
+POST http://127.0.0.1:3000/
+
+<html>
+    <head>
+        <script>
+            document.write('PHP is the best language of all time.');
+        </script>
+    </head>
+    <body>
+    Fake stuff here, gonna be overwritten by the JS.
+    </body>
+</html>
